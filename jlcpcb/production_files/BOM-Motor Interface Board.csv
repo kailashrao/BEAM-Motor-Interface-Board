@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC,Quantity
+0,"R1,R2",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C96345,2
+0.1uF,"C1,C2",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C116837,2
+Conn_01x02_Pin,"J3,J4",PinHeader_1x02_P2.54mm_Vertical,C32713268,2
+Conn_01x20,"J5,J6",PinSocket_1x20_P2.54mm_Vertical,C7509519,2
+Conn_02x04_Odd_Even,J7,PinHeader_2x04_P2.54mm_Vertical,C5156676,1
+Conn_02x05_Odd_Even,"J1,J2",PinHeader_2x05_P2.54mm_Vertical,C42431818,2
+D_Schottky,D1,D_SMA_Handsoldering,C83852,1
+TXB0108PW,U1,TSSOP-20_4.4x6.5mm_P0.65mm,C53406,1

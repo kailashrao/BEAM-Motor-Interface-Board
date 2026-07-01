@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,165.6,-66.6,180.0,top
+C2,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,153.1,-69.65,180.0,top
+D1,D_Schottky,D_SMA_Handsoldering,156.55,-36.2,90.0,top
+J1,Conn_02x05_Odd_Even,PinHeader_2x05_P2.54mm_Vertical,176.04,-69.51548,90.0,top
+J2,Conn_02x05_Odd_Even,PinHeader_2x05_P2.54mm_Vertical,208.222981,-52.581647,180.0,top
+J3,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,161.998444,-34.462966,90.0,top
+J4,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,175.699335,-34.15,90.0,top
+J5,Conn_01x20,PinSocket_1x20_P2.54mm_Vertical,177.6,-61.65,90.0,top
+J6,Conn_01x20,PinSocket_1x20_P2.54mm_Vertical,177.59,-43.4,90.0,top
+J7,Conn_02x04_Odd_Even,PinHeader_2x04_P2.54mm_Vertical,196.28,-33.555,90.0,top
+R1,0,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,168.55,-32.05,0.0,top
+R2,0,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,152.2,-36.6,0.0,top
+U1,TXB0108PW,TSSOP-20_4.4x6.5mm_P0.65mm,159.021437,-69.176866,270.0,top
